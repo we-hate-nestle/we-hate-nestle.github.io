@@ -2,9 +2,11 @@
 
 # We Hate Nestle
 
-### Who we are
+**Heads up! This site is imcomplete!**
+
+### Who We Are
 We're a group founded on [r/hydrohomies](https://reddit.com/r/hydrohomies), who want to educate
 the general public on Nestle's abuses.
 
 ### Mission Statement
-We will bring to light Nestle's abuse of basic human rights.
+We will bring to light Nestle's abuse of basic human rights, to bring Nestle to justice.
