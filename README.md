@@ -3,7 +3,7 @@
 **Heads up! This site is not yet complete! If you can, please help contribute.**
 
 ## About
-This is a site deticated to documenting Nestle's awful and abusive business practicies. 
+This is a site dedicated to documenting Nestle's awful and abusive business practicies. 
 
 This site was originally came up with on a Reddit thread on [r/hydrohomies](https://reddit.com/r/hydrohomies)
 
