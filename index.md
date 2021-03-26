@@ -2,7 +2,7 @@
 
 # We Hate Nestle
 
-**Heads up! This site is imcomplete!**
+**Heads up! This site is incomplete!**
 
 ### Who We Are
 We're a group founded on [r/hydrohomies](https://reddit.com/r/hydrohomies), who want to educate
